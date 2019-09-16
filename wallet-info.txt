@@ -1,0 +1,16 @@
+BIP44 $BCH Wallet
+
+128 bit english BIP32 Mnemonic:
+outer walnut lesson spell bronze asset error call duck fiscal collect stay
+
+BIP44 Account: "m/44'/145'/0'"
+m/44'/145'/0'/0/0: bchtest:qp72ygjyztvesmw4gcftjqwrpgz2zhqdpurtfuf05d
+m/44'/145'/0'/0/1: bchtest:qpseg5cex39z0y84dxunaxqls5vzjjqfj5kl6caemq
+m/44'/145'/0'/0/2: bchtest:qzjdwznasutvx5a4pj8n6s7kt0fkf60upggz6pvchq
+m/44'/145'/0'/0/3: bchtest:qrgnhrfxdk8qtdw3glcpckamaz47tk5prcpw54m6r5
+m/44'/145'/0'/0/4: bchtest:qrn4gal3twa7zg8qegwj3lz0ddr57p65sv47uzxh5p
+m/44'/145'/0'/0/5: bchtest:qq8dsd7qpfdvdetzgadghgahxyhc9plstvwcqqcx83
+m/44'/145'/0'/0/6: bchtest:qpmp9yjqku2p550qvuwl7l9ay6n42mz3tsaxe46yle
+m/44'/145'/0'/0/7: bchtest:qzh90z8ya6w3m9g9xtfwynljqk0lhtn8fvlp0zqpz4
+m/44'/145'/0'/0/8: bchtest:qpjsrfek5kq4g8x2thx3qm6sj8n9qgqv9qmk7kc7pp
+m/44'/145'/0'/0/9: bchtest:qpwxq2tarz790d2rejx6j2v2qe9yn4f50cwdlfm306
